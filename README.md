@@ -13,3 +13,5 @@ Now you must open inspection tool [(CTRL + SHIFT + C) OR F12]   options and open
 Copy the WebSocke as cURL (bash)
 
 and put this in the python code.
+
+NOTE: Sometimes when you see the websocket in the console is not work fine, so yo need waite a minutes and other WebSocket open a new connection.
