@@ -1,6 +1,7 @@
 ## Get a Microsoft Teams Chat WebSocket:
 You need a Microsoft Teams Chat WebSocket to get all messages, 
-for to get this yo need open your account in the browser
+for to get this yo need open your account in the browser.
+
 Login to microsoft teams and when you already made this you must add this string in the end URL: "/v2/" for exapmple https://teams.microsoft.com/v2/
 and refresh the website.
 
